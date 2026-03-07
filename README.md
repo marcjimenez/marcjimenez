@@ -1,6 +1,6 @@
 # Hey, I'm Marc
 
-<img src="https://images.squarespace-cdn.com/content/689429e4261a1c1f3c463fc3/007b1bb3-3206-46a8-a2e7-9a37383b600b/marc-indi.png" width="280" align="right" alt="Marc and Indigo" />
+<img src="https://images.squarespace-cdn.com/content/689429e4261a1c1f3c463fc3/007b1bb3-3206-46a8-a2e7-9a37383b600b/marc-indi.png" width="160" align="right" alt="Marc and Indigo" />
 
 Founding engineer at **[Kudos](https://joinkudos.com)** (engineer #3), where I build the platform systems behind cashback, bill negotiation, and subscription management for 100K+ monthly active users.
 
