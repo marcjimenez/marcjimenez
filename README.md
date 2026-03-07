@@ -1,6 +1,8 @@
 # Hey, I'm Marc
 
-<img src="https://images.squarespace-cdn.com/content/689429e4261a1c1f3c463fc3/007b1bb3-3206-46a8-a2e7-9a37383b600b/marc-indi.png" width="90" align="right" alt="Marc and Indigo" />
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/689429e4261a1c1f3c463fc3/007b1bb3-3206-46a8-a2e7-9a37383b600b/marc-indi.png" width="150" alt="Marc and Indigo" />
+</p>
 
 Founding engineer at **[Kudos](https://joinkudos.com)** · Full-stack · AI infrastructure
 
