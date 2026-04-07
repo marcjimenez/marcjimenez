@@ -4,10 +4,11 @@ company: Kudos (engineer #3)
 role: Founding Software Engineer
 education: UCLA, Mathematics & Economics
 currently:
-  - agentic AI workflows (LLMs + AWS Bedrock)
-  - federated GraphQL at scale
-  - Go microservices
-  - developer tooling and CI/CD automation
+  - building agentic AI workflows (LangGraph + AWS Bedrock)
+  - automating merchant operations with browser agents + human-in-the-loop approval
+  - federated GraphQL at scale (Apollo Federation, 100K+ MAU)
+  - full-stack across Go, Python, TypeScript, and React Native
+  - developer tooling: Claude plugins, MCP servers, CI/CD automation
 espresso:
   machine: Quickmill Rubino
   grinder: Weber EG-1
