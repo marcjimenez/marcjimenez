@@ -1,24 +1,22 @@
-# Hi, I'm Marc
-
-Founding engineer at [Kudos](https://joinkudos.com), where the job description has always been "build whatever needs building." Over the years that's meant browser extensions, mobile apps, federated GraphQL, and lately AI agents that run in production instead of in demos.
-
-That last part is where most of my energy goes now. I find the unglamorous side of LLM systems weirdly satisfying: writing evals, reading production traces, and figuring out why a model that behaved perfectly yesterday is doing something strange today. The distance between a cool prototype and something users quietly rely on every day is the part of the work I like best.
-
-Before Kudos I worked on the Honey extension at PayPal, healthcare systems at Cigna, and geographic data viz at Esri. Somewhere along the way I lost the ability to stay in one lane, so now I ship across TypeScript, Python, and Go and consider that a feature.
-
 ```yaml
 location: Los Angeles, CA
+company: Kudos (engineer #3)
+role: Founding Software Engineer
 education: UCLA, Mathematics & Economics
 currently:
-  - building LangGraph agents and MCP integrations
-  - teaching LLMs to render charts instead of describing them
-  - reading more production traces than is probably healthy
+  - building agentic AI workflows (LangGraph + AWS Bedrock)
+  - automating merchant operations with browser agents + human-in-the-loop approval
+  - federated GraphQL at scale (Apollo Federation, 100K+ MAU)
+  - full-stack across Go, Python, TypeScript, and React Native
+  - developer tooling: Claude plugins, MCP servers, CI/CD automation
 espresso:
   machine: Quickmill Rubino
   grinder: Weber EG-1
   favorite shops: [Day Glow, Mad Lab, GGET]
-dog: Indigo (Samoyed, very fluffy, not a great pair programmer)
+dog: Indigo (Samoyed, very fluffy)
 ```
+
+<br clear="right"/>
 
 ## Tech
 
@@ -33,5 +31,3 @@ dog: Indigo (Samoyed, very fluffy, not a great pair programmer)
   <a href="https://linkedin.com/in/marc-jimenez-338532208"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marc@marcjimenez.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-<sub>Last updated: June 11, 2026</sub>
