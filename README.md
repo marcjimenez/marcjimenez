@@ -1,31 +1,23 @@
-# Hi, I'm Marc 👋
+# Hi, I'm Marc
 
-**Founding engineer (#3) at [Kudos](https://joinkudos.com) — I design, ship, and operate production AI agent systems.**
+Founding engineer at [Kudos](https://joinkudos.com), where the job description has always been "build whatever needs building." Over the years that's meant browser extensions, mobile apps, federated GraphQL, and lately AI agents that run in production instead of in demos.
 
-I lead AI strategy on the engineering team: building the agent platform end-to-end, from LangGraph graphs and MCP integrations to evaluation suites, streaming UX, and day-2 production operations. Ten years shipping consumer products across web, mobile, and browser extensions.
+That last part is where most of my energy goes now. I find the unglamorous side of LLM systems weirdly satisfying: writing evals, reading production traces, and figuring out why a model that behaved perfectly yesterday is doing something strange today. The distance between a cool prototype and something users quietly rely on every day is the part of the work I like best.
 
-## Highlights
-
-- 🤖 **Shipped a consumer-facing AI financial companion** (KudosAI) — planner→executor agent architecture, multi-stage safety pipeline, real-time streaming, and a versioned generative UI catalog rendering charts and reports inline across web, iOS, and browser extension
-- 🛠️ **Built the company's AI agent platform from scratch** — multiple production LangGraph agents (LangGraph Platform + AWS Bedrock) for engineering on-call triage, compliance ops, and browser automation with human-in-the-loop approval
-- 📊 **Treat evaluation as a first-class system** — eval harnesses, E2E scenario suites, regression detection, and production trace analysis driving architecture decisions for non-deterministic systems
-- 🔌 **MCP early adopter** — built MCP servers and tool integrations connecting agents to GraphQL APIs, Postgres, Slack, and internal knowledge bases
-- 🌐 **Own large-scale product infrastructure** — federated GraphQL (Apollo Federation) serving 100K+ MAU across four client platforms
-- ⚡ **Developer-experience multiplier** — AI-assisted code review and PR automation org-wide, plugin marketplace, PR preview infra, and CI pipelines made dramatically faster
+Before Kudos I worked on the Honey extension at PayPal, healthcare systems at Cigna, and geographic data viz at Esri. Somewhere along the way I lost the ability to stay in one lane, so now I ship across TypeScript, Python, and Go and consider that a feature.
 
 ```yaml
 location: Los Angeles, CA
 education: UCLA, Mathematics & Economics
-languages: [TypeScript, Python, Go]
-interests:
-  - agent frameworks, tool calling, and MCP
-  - LLM evaluation & observability
-  - generative UI
+currently:
+  - building LangGraph agents and MCP integrations
+  - teaching LLMs to render charts instead of describing them
+  - reading more production traces than is probably healthy
 espresso:
   machine: Quickmill Rubino
   grinder: Weber EG-1
   favorite shops: [Day Glow, Mad Lab, GGET]
-dog: Indigo (Samoyed, very fluffy)
+dog: Indigo (Samoyed, very fluffy, not a great pair programmer)
 ```
 
 ## Tech
@@ -41,7 +33,5 @@ dog: Indigo (Samoyed, very fluffy)
   <a href="https://linkedin.com/in/marc-jimenez-338532208"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:marc@marcjimenez.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
----
 
 <sub>Last updated: June 11, 2026</sub>
